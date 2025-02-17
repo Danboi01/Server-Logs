@@ -1,6 +1,6 @@
 Config = {
-    vMenuActive = false, 
-    AttemptConnect = false, 
+    vMenuActive = true, 
+    AttemptConnect = true, 
     JoinWebhook = "",
     LeaveWebhook = "",
     ChatMsgWebhook = "",
