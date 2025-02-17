@@ -17,7 +17,7 @@ Citizen.CreateThread(function()
                     deathReason = "Player Died"
                 end
             end
-            TriggerServerEvent('playerDied', deathReason) -- Send death reason to server
+            TriggerServerEvent('playerDied', deathReason) 
             while IsEntityDead(PlayerPedId()) do
                 Citizen.Wait(0)
             end
