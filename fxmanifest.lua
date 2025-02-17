@@ -1,6 +1,6 @@
 fx_version 'cerulean'
 games { 'gta5' }
-author 'AtlasDevlabs'
+author 'Danboi01'
 description 'Server Logs - General FiveM Logs'
 version '1.0.0'
 
